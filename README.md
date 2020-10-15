@@ -1,6 +1,6 @@
 # Introduction:
 
-This plugin was designed to quantify the relative binding of an actin-binding protein (ABP) to actin in two-color TIRF microscopy. With minimal or no modifications, the plugin might be used to study other cytoskeletons imaged with other fluorescence microscopy methods.
+This plugin was designed to quantify the relative binding of an actin-binding protein (ABP) to actin in two-color TIRF microscopy. With minimal or no modifications, the plugin might be used to study other cytoskeletons imaged with other fluorescence microscopy methods. For additional details, please see: DOI: 10.7554/eLife.62514
 
 
 
